@@ -1,9 +1,9 @@
 module ActsAsAmazing
-  module Amazing
-    def amazing
-      puts "This is amazing!"
-    end
+  
+  def amazing
+    puts "This is amazing!"
   end
+
   
   ActiveRecord::Base.send :include, ActsAsAmazing
 end
