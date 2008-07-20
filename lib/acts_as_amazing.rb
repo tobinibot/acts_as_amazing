@@ -9,4 +9,4 @@ module ActsAsAmazing
 end
 
 require File.join(LIB_DIRECTORY, 'version')
-require File.join(LIB_DIRECTORY, 'core')
+require File.join(LIB_DIRECTORY, 'base')

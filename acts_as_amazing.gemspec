@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name = "acts_as_amazing"
-  s.version = "0.0.4"
+  s.version = "0.0.5"
   s.date = "2008-07-16"
   s.summary = "test gem"
   s.email = "tobinibot@gmail.com"
